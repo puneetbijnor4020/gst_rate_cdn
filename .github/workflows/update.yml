@@ -1,0 +1,25 @@
+name: GST Rate Update Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 1 * *" # monthly (future use)
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate gst_rates.json
+        run: |
+          node -e "
+          const data = require('./gst_rates.json');
+          const allowed = [0,5,12,18,28];
+          data.rates.forEach(r => {
+            if (!allowed.includes(r.gstRate)) {
+              throw new Error('Invalid GST rate: ' + r.code);
+            }
+          });
+          console.log('GST rates validated');
+          "
