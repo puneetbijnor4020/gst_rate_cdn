@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "version": "2026.01",
+    "source": "CBIC GST Schedules (Curated)",
+    "coverage": "India GST",
+    "note": "Extendable master"
+  },
+  "rates": [
+    {
+      "code": "0101",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Live horses, asses, mules"
+    },
+    {
+      "code": "0201",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Fresh or chilled meat"
+    },
+    {
+      "code": "0302",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Fresh fish"
+    },
+    {
+      "code": "0401",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Milk and cream"
+    },
+    {
+      "code": "0406",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Cheese (natural)"
+    },
+    {
+      "code": "0701",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Potatoes"
+    },
+    {
+      "code": "0713",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Dried pulses"
+    },
+    {
+      "code": "0901",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Coffee"
+    },
+    {
+      "code": "0902",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Tea"
+    },
+    {
+      "code": "1001",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Wheat"
+    },
+    {
+      "code": "1006",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Rice"
+    },
+    {
+      "code": "1101",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Wheat flour (atta)"
+    },
+    {
+      "code": "1701",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Sugar"
+    },
+    {
+      "code": "2106",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Food preparations"
+    },
+    {
+      "code": "3004",
+      "type": "HSN",
+      "gstRate": 0,
+      "description": "Life-saving medicines"
+    },
+    {
+      "code": "3003",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Medicaments"
+    },
+    {
+      "code": "3304",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Cosmetics"
+    },
+    {
+      "code": "3305",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Hair preparations"
+    },
+    {
+      "code": "3401",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Soap"
+    },
+    {
+      "code": "3923",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Plastic packaging"
+    },
+    {
+      "code": "4819",
+      "type": "HSN",
+      "gstRate": 12,
+      "description": "Cartons and boxes"
+    },
+    {
+      "code": "4823",
+      "type": "HSN",
+      "gstRate": 12,
+      "description": "Paper articles"
+    },
+    {
+      "code": "6109",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "T-shirts"
+    },
+    {
+      "code": "6110",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Sweaters"
+    },
+    {
+      "code": "6203",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Men garments"
+    },
+    {
+      "code": "6204",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Women garments"
+    },
+    {
+      "code": "6205",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Shirts"
+    },
+    {
+      "code": "6302",
+      "type": "HSN",
+      "gstRate": 5,
+      "description": "Bed linen"
+    },
+    {
+      "code": "6402",
+      "type": "HSN",
+      "gstRate": 12,
+      "description": "Footwear (below threshold)"
+    },
+    {
+      "code": "6403",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Footwear leather"
+    },
+    {
+      "code": "6505",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Hats and caps"
+    },
+    {
+      "code": "6912",
+      "type": "HSN",
+      "gstRate": 12,
+      "description": "Ceramic tableware"
+    },
+    {
+      "code": "7013",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Glassware"
+    },
+    {
+      "code": "7323",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Kitchen utensils"
+    },
+    {
+      "code": "7615",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Aluminium utensils"
+    },
+    {
+      "code": "8205",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Hand tools"
+    },
+    {
+      "code": "8415",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Air conditioners"
+    },
+    {
+      "code": "8418",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Refrigerators"
+    },
+    {
+      "code": "8421",
+      "type": "HSN",
+      "gstRate": 12,
+      "description": "Water purifiers"
+    },
+    {
+      "code": "8471",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Computers"
+    },
+    {
+      "code": "8504",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Electric transformers"
+    },
+    {
+      "code": "8516",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Electric heaters"
+    },
+    {
+      "code": "8517",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Mobile phones"
+    },
+    {
+      "code": "8528",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Televisions"
+    },
+    {
+      "code": "8536",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Electrical switches"
+    },
+    {
+      "code": "8703",
+      "type": "HSN",
+      "gstRate": 28,
+      "description": "Motor cars"
+    },
+    {
+      "code": "8712",
+      "type": "HSN",
+      "gstRate": 12,
+      "description": "Bicycles"
+    },
+    {
+      "code": "9403",
+      "type": "HSN",
+      "gstRate": 18,
+      "description": "Furniture"
+    },
+    {
+      "code": "9954",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Construction services"
+    },
+    {
+      "code": "9963",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Accommodation services"
+    },
+    {
+      "code": "9965",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Transport services"
+    },
+    {
+      "code": "9971",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Financial services"
+    },
+    {
+      "code": "9983",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Consultancy services"
+    },
+    {
+      "code": "9985",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Support services"
+    },
+    {
+      "code": "9987",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Repair services"
+    },
+    {
+      "code": "9992",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Education services (private)"
+    },
+    {
+      "code": "9996",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Recreation services"
+    },
+    {
+      "code": "9997",
+      "type": "SAC",
+      "gstRate": 18,
+      "description": "Beauty & salon services"
+    }
+  ]
+}
