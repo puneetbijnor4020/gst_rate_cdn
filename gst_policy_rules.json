@@ -1,0 +1,95 @@
+{
+  "version": "2026.02.21.1",
+  "generatedAt": "2026-02-21",
+  "rules": [
+    {
+      "docType": "SALES_RETURN",
+      "effectiveFrom": "2025-04-01",
+      "effectiveTo": "2026-03-31",
+      "enabled": true,
+      "allowAccountingOnlyAfterCutoff": true,
+      "blockAfterCutoff": false,
+      "cutoffMonth": 11,
+      "cutoffDay": 30,
+      "note": "Credit note/return GST timeline policy"
+    },
+    {
+      "docType": "PURCHASE_RETURN",
+      "effectiveFrom": "2025-04-01",
+      "effectiveTo": "2026-03-31",
+      "enabled": true,
+      "allowAccountingOnlyAfterCutoff": true,
+      "blockAfterCutoff": false,
+      "cutoffMonth": 11,
+      "cutoffDay": 30,
+      "note": "Debit note/return GST timeline policy"
+    },
+    {
+      "docType": "EXPENSE_CORRECTION",
+      "effectiveFrom": "2025-04-01",
+      "effectiveTo": "2026-03-31",
+      "enabled": true,
+      "allowAccountingOnlyAfterCutoff": true,
+      "blockAfterCutoff": false,
+      "cutoffMonth": 11,
+      "cutoffDay": 30,
+      "note": "Expense correction is accounting-only"
+    },
+    {
+      "docType": "STOCK_ADJUSTMENT",
+      "effectiveFrom": "2025-04-01",
+      "effectiveTo": "2026-03-31",
+      "enabled": true,
+      "allowAccountingOnlyAfterCutoff": true,
+      "blockAfterCutoff": false,
+      "cutoffMonth": 11,
+      "cutoffDay": 30,
+      "note": "Stock adjustment is accounting-only"
+    },
+    {
+      "docType": "SALES_RETURN",
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": "2027-03-31",
+      "enabled": true,
+      "allowAccountingOnlyAfterCutoff": true,
+      "blockAfterCutoff": false,
+      "cutoffMonth": 11,
+      "cutoffDay": 30,
+      "note": "Credit note/return GST timeline policy"
+    },
+    {
+      "docType": "PURCHASE_RETURN",
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": "2027-03-31",
+      "enabled": true,
+      "allowAccountingOnlyAfterCutoff": true,
+      "blockAfterCutoff": false,
+      "cutoffMonth": 11,
+      "cutoffDay": 30,
+      "note": "Debit note/return GST timeline policy"
+    },
+    {
+      "docType": "EXPENSE_CORRECTION",
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": "2027-03-31",
+      "enabled": true,
+      "allowAccountingOnlyAfterCutoff": true,
+      "blockAfterCutoff": false,
+      "cutoffMonth": 11,
+      "cutoffDay": 30,
+      "note": "Expense correction is accounting-only"
+    },
+    {
+      "docType": "STOCK_ADJUSTMENT",
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": "2027-03-31",
+      "enabled": true,
+      "allowAccountingOnlyAfterCutoff": true,
+      "blockAfterCutoff": false,
+      "cutoffMonth": 11,
+      "cutoffDay": 30,
+      "note": "Stock adjustment is accounting-only"
+    }
+  ]
+}
+
